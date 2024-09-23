@@ -1,7 +1,11 @@
-# Jennifer Eze
+# Data Analyst
+
+### Skills: Python, Power BI, excel, Tableau
 
 ### Education
-Data Science Management, MSC
+Data Science Management, MSC (September, 2024)
+Data Analysis and Business Intelligence development - PQPLUS Institute Abuja (January 2024)
+Bachelor of Science in Marketing - University of Nigeria, Enugu Campus (July 2017)
 
 ### Work Experience
 Currency Controller - Central Bank of Nigeria – Abuja - August, 2022 – Present     
