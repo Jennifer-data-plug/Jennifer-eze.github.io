@@ -1,4 +1,4 @@
-# Data Analyst
+# Jennifer Eze
 
 ### Education
 Data Science Management, MSC
